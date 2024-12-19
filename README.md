@@ -1,8 +1,8 @@
-#The Gaming Room - Web-Based Game Development
+# The Gaming Room - Web-Based Game Development
 **Project Overview**
 Creative Technology Solutions (CTS) was engaged by The Gaming Room to develop a web-based version of their existing Android game, Draw It or Lose It. This game, inspired by the 1980s television show Win, Lose or Draw, involves teams guessing images from a library of stock drawings. The new web-based game supports multiple platforms, enhancing accessibility and scalability.
 
-##Client: The Gaming Room
+## Client: The Gaming Room
 **Software Requirements:**
 Support for multiple teams, each with multiple players.
 Unique game and team names.
